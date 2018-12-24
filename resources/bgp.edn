@@ -1,0 +1,6 @@
+{:as 1
+ :router-id "192.168.55.1"
+ :neighbors [{:address "192.168.55.2"
+              :as 1},
+             {:address "192.168.55.3"
+              :as 1}]}
